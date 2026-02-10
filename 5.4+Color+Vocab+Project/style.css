@@ -1,0 +1,27 @@
+/* Task 2 */
+#red {
+    color: red;
+}
+#blue {
+    color: blue;
+}
+#orange {
+    color: orange;
+}
+#green {
+    color: green;
+}
+#yellow {
+    color: yellow;
+}
+
+/* Task 3 */
+.color-title {
+    font-weight: normal;
+}
+
+/* Task 4 */
+img {
+    height: 200px;
+    width: 200px;
+}
