@@ -1,0 +1,1 @@
+https://secrets-api.appbrewery.com/
